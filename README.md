@@ -10,3 +10,7 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@stevexgarretyaoi" target="_blank">prns</a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hello+guys;im+nico;ok+bye&color=FFFFFF&background=000000&size=15" />
+</p>
