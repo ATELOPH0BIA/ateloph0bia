@@ -10,7 +10,3 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@stevexgarretyaoi" target="_blank">prns</a>
 
-</p>
-<p align="center">
-  <img width="1000" height="31" alt="Screenshot 2025-10-24 at 3 03 58 PM" src="https://github.com/user-attachments/assets/76676012-e859-4714-9e7c-909eecf25cf4" />
-</p>
