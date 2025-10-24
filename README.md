@@ -7,10 +7,9 @@
   
 </p>
 
-  
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/X7FnCcdT/YGw1xbnq-removebg-preview.png" width="150"><br>
+  <img src="https://i.postimg.cc/65r0yPHf/Untitled5-20251025074847.png" width="300"><br>
   <a href="https://tshirtawarenessday.atabook.org/" target="_blank">atabook</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@stevexgarretyaoi" target="_blank">prns</a>
