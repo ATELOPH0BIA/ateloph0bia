@@ -10,6 +10,6 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@stevexgarretyaoi" target="_blank">prns</a>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.&color=FFFFFF&background=000000&size=15" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.&color=FFFFFF&size=15" alt="typing animation" />
 </p>
 
