@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/65r0yPHf/Untitled5-20251025074847.png" width="300"><br>
+  <img src="https://i.postimg.cc/fbFbVxT2/Untitled5-20251025074847-removebg-preview.png" width="300"><br>
 <a href="https://tshirtawarenessday.atabook.org/" target="_blank">atabook</a> &nbsp;|&nbsp;
   <a href="https://ifeelveryhard.straw.page/" target="_blank">strawpage</a> &nbsp;|&nbsp;
   <a href="https://en.pronouns.page/@stevexgarretyaoi" target="_blank">prnspage</a>
