@@ -17,3 +17,4 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.&color=FFFFFF&size=15" alt="typing animation" />
 </p>
 
+strawpage kinda old, im makin a new one ig
