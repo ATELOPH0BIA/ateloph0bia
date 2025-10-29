@@ -12,7 +12,8 @@
   <img src="https://i.postimg.cc/fbFbVxT2/Untitled5-20251025074847-removebg-preview.png" width="300"><br>
 <a href="https://tshirtawarenessday.atabook.org/" target="_blank">atabook</a> &nbsp;|&nbsp;
   <a href="https://ifeelveryhard.straw.page/" target="_blank">strawpage</a> &nbsp;|&nbsp;
-  <a href="https://en.pronouns.page/@stevexgarretyaoi" target="_blank">prnspage</a>
+  <a href="https://en.pronouns.page/@stevexgarretyaoi" target="_blank">prnspage</a> &nbsp;|&nbsp;
+    <a href="https://imshartingohgodd.carrd.co/" target="_blank">carrd</a>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.&color=FFFFFF&size=15" alt="typing animation" />
 </p>
